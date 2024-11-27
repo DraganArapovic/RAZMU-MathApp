@@ -20,13 +20,13 @@ Ovaj projekt je razvijen kao dio kolegija **Razvoj mobilnih aplikacija** na Faku
 
 1. Klonirajte repozitorij:
    ```bash
-   git clone https://github.com/danielvasic/MathApp.git
+   git clone https://github.com/DraganArapovic/RAZMU-MathApp.git
    ```
 
 2. Navigirajte u direktorij projekta:
 
    ```bash
-   cd MathApp
+   cd RAZMU-MathApp
    ```
 3. Instalirajte potrebne pakete:
 
@@ -39,14 +39,17 @@ Ovaj projekt je razvijen kao dio kolegija **Razvoj mobilnih aplikacija** na Faku
    ```bash
    npx expo start
    ```
-
-## Buduće funkcionalnosti
-
-- Dodavanje novih matematičkih operacija i složenijih zadataka.
-- Podrška za više jezika.
-- Rang liste za praćenje najboljih korisnika.
-
+   
 ## Autori
 
-    doc. dr. sc. Daniel Vasić – daniel.vasic@fpmoz.sum.ba
+    Dragan Arapović – dragan.arapovic@fsre.sum.ba
+
+## Zadaća
+
+   Ovdje možete vidjeti scrrenshot sa aplikacije koji ujedno prikazuju i funkcionalnost i dizajn aplikacije, a sve za potrebe rješavanja zadatka za zadaću definiranog na satu.
+   
+![image](https://github.com/user-attachments/assets/3c5643ae-8354-469b-b4a5-b5a8bcc39b1c)
+
+![image](https://github.com/user-attachments/assets/0095d0f4-340b-48a3-8e8c-57ba23c4982e)
+
 
